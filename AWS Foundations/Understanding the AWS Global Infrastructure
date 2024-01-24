@@ -1,0 +1,44 @@
+# **Understanding the AWS Global Infrastructure**
+
+****In this lesson, you will review common resources that are launched within the AWS Global Infrastructure.****
+
+The AWS Global Infrastructure is made up of several different components.
+
+**Data center**
+AWS resources are launched on the AWS Global Infrastructure starting with the data center. This is where your hardware is located. It typically houses thousands of servers.
+
+**Availability Zone**
+Data centers are clustered into Availability Zones. Within each Availability Zone, there is at least one data center. Availability Zones that are located in a specific geographical area form an AWS Region. This means they have two or more Availability Zones in each geographical area.
+Availability Zones are designed for fault isolation, which protects the data centers from being affected as a whole, meaning if one Availability Zone goes down for a certain reason, it's very unlikely that other zones will go down for the same reason.
+
+**Region**
+Most resources are Region-specific. An AWS Region is a geographical area, typically consisting of two or more Availability Zones.
+Communication between Regions uses the AWS backbone network infrastructure.
+
+**ADVANTAGES**
+
+Now that we know what AWS Cloud and AWS Global Infrastructure look like, let's explore how these advantages can help make your applications run as efficiently as possible:
+
+1. ****Trade upfront costs for variable costs****
+
+AWS takes care of purchasing and handling the infrastructure, so you don’t have to worry about capacity. Heavy initial investments into hardware and facilities are no longer needed, so fixed costs are traded for variable costs.
+
+1. ****Increase speed and agility****
+
+Now that the infrastructure has been addressed, it will take minimal effort and time to increase your agility and give you more time to focus on your applications.
+
+1. ****Move to a global presence****
+
+Cloud computing gives untethered access to launch your application in different geographical areas without leaving your office.
+
+1. ****Stop spending money running and maintaining data centers****
+
+Focus on projects that differentiate your business, not the infrastructure. Cloud computing lets you focus on your own customers, rather that on the heavy lifting of racking, stacking, and powering servers.
+
+1. ****Stop guessing capacity****
+
+Eliminate guessing on your infrastructure capacity needs. When you make a capacity decision prior to deploying an application, you often end up either sitting on expensive idle resources or dealing with limited capacity. With cloud computing, these problems go away. You can access as much or as little capacity as you need, and scale up and down as required with only a few minutes' notice.
+
+1. ****Benefit from massive economies of scale****
+
+By using cloud computing, you can achieve a lower variable cost than you can get on your own. Because usage from hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, which translates into lower pay as-you-go prices.

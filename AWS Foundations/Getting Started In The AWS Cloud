@@ -1,0 +1,38 @@
+# Getting Started In The AWS Cloud
+
+****With cloud computing, you can stop thinking of infrastructure as hardware and instead think of it (and use it) as software.****
+
+Cloud computing is the on-demand delivery of IT resources and applications through the internet. ****
+
+- There are no large upfront investments.
+- You won't need to spend time or resources on hardware management.
+- You can provision exactly the right type and size when needed (dynamic abilities).
+- You can have as many resources as you need and pay for what you use.
+    
+    There are three key benefits of using cloud computing. And they are: 
+    
+    1. Programmable resources
+    2. Dynamic abilities
+    3. Pay as you go
+
+****Cloud services provider****
+
+With cloud services, the infrastructure (physical hardware) is taken care of by the cloud vendor. Your resources are virtualized, and you can access them through the internet. You determine when and how often you need them, so your interactions are customized to fit your business needs. This adds elasticity to your business.
+
+<!-- Servers located at a physical location. -->
+
+**On premises**
+
+In traditional on-premises environments, you figure out how much capacity you need, purchase the hardware, wait for it, set it up, and access the resources over your network.
+
+The challenge with an on-premises environment is if there is not enough capacity, you must purchase more and wait for the servers to be delivered to your site. Another challenge is if you have too much capacity, you are left with an over-provisioned environment.
+
+**THIS IS HOW IT WORKS**
+
+- **AWS**
+    
+    Amazon Web Services (AWS) owns and maintains the network-connected hardware.
+
+****Interacting with AWS****
+
+You provision what you need. You can interact with AWS and manage your resources using the AWS Management Console, the AWS Command Line Interface (AWS CLI), or AWS SDKs.
